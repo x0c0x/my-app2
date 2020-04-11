@@ -44,7 +44,7 @@ pipeline {
                 Thanks
                 DevOps''', cc: '', from: '', replyTo: '', subject: 'Jenkins Job Notification', to: 'pannly@gmail.com'
                 }
-             }       
+             }    
         }
     }
 }
